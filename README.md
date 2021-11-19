@@ -10,6 +10,7 @@
 
   <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
   <br />
+  <br />
   <p align="center">
   <samp>
     Hi, I'm Hamza Ali! 👋 <br>
