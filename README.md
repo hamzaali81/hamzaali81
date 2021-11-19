@@ -14,7 +14,7 @@
   <p align="center">
   <samp>
     Hi, I'm Hamza Ali! 👋 <br>
-    🔥 Software Developer grinding hard to make something cool  <br>
+    🔥 Mern StackDeveloper grinding hard to make something cool  <br>
     :sparkles: Favorite Tech: JavaScript, React, Typescript, GraphQL ... <br>
     :art: Portfolio: https://6162c473a841feb99e8bf40d--kind-ritchie-60b8cb.netlify.app/
   </samp>
