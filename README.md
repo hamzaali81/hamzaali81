@@ -21,7 +21,5 @@ Or follow & connect with me on my Socials:
 [![GitHub Profile](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hamzaali81)
 [![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=twitter&logoColor=white)](https://www.linkedin.com/in/hamza-ali-124653162/)
 [![Twitter Profile](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=linkedin&logoColor=white)](https://twitter.com/_hamzaahmed81_)
-[![Instagram Profile](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.instagram.com/hamza_aliofficial81/)
-[![Facebook Profile](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.facebook.com/profile.php?id=100008213460182)
-LinkedIn-0077B5
-Twitter-1DA1F2
+[![Instagram Profile](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=facebook&logoColor=white)](https://www.instagram.com/hamza_aliofficial81/)
+[![Facebook Profile](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=instagram&logoColor=white)](https://www.facebook.com/profile.php?id=100008213460182)
