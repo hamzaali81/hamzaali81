@@ -2,7 +2,7 @@
 <hr></hr>
 <div style="text-align: center">
   <div>
-    I'm a Mern Stack Developer working at <a href="https://www.upwork.com/">Upwork</a> and a <a href="https://www.fiverr.com/">Backend Expert in NodeJS</a>. I recently  learning Defi | AWS | Data Structure & Algorithm tutorials on <a href="https://ahsanayaz.com/youtube">YouTube</a> and write articles at my blog <a href="https://youtube.com/">https://youtube.com/</a>. 
+    I'm a Mern Stack Developer working at <a href="https://www.upwork.com/">Upwork</a> and a <a href="https://www.fiverr.com/">Backend Expert in NodeJS</a>. I recently  learning Defi | AWS | Data Structure & Algorithm tutorials on <a href="https://ahsanayaz.com/youtube">YouTube</a> and write articles at my blog <a href="#">#/</a>. 
   </div>
 </div>
 
