@@ -8,12 +8,7 @@
 
 <h4 style="margin-bottom: 0">Like my work? </h4>
 
-<a
-  title="Like Hamza's work? Buy him a coffee"
-  class="bmac"
-  href="https://www.buymeacoffee.com/hamzaali81">
-<img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=muhd.ahsanayaz&button_colour=BD5FFF&font_colour=ffffff&font_family=Comic&outline_colour=000000&coffee_colour=FFDD00" />
-</a>
+<a href="https://www.buymeacoffee.com/hamzaali81"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=hamzaali81&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
 
 Or follow & connect with me on my Socials:
 
