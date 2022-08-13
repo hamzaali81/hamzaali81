@@ -5,9 +5,8 @@
   <div>
     I am a technology ethauist full-stack React/Node and Blockchain developer. I also worked on the Jamstack flavor and React Native.  I am fulltime freelancer in different freelance plateforms like fiverr and upwork.If you found value in something, I have created, please feel free to send a tip. You can ask me anything (within reason). I am looking forward to absorbing knowledge, gaining experience, collaborating, and building amazing products for the 
 world. I love building applications & discussing new product ideas.
-<br></br>
-    - 💼 any freelance work? do reach me on linkedIn.
-    - 💬 ask me about anything, i am happy to help;
+- 💼 any freelance work? do reach on LinkedIn.
+- 💬 ask me about anything, i am happy to help;
 
   </div>
 </div>
