@@ -3,7 +3,9 @@
 <hr></hr>
 <div style="text-align: center">
   <div>
-    I'm a Mern Stack Developer working at <a href="https://www.upwork.com/">Upwork</a> and a <a href="https://www.fiverr.com/">Backend Expert in NodeJS</a>. I recently  learning Defi | Data Structure & Algorithm tutorials on <a href="https://ahsanayaz.com/youtube">YouTube</a> and write articles at my blog <a href="https://medium.com/@hamzaahmed_46108?p=6411d4e90009">Blog</a>. 
+    I am a technology ethauist full-stack React/Node and Blockchain developer. I also worked on the Jamstack flavor and React Native.  I am fulltime freelancer.
+If you found value in something, I have created, please feel free to send a tip. You can ask me anything (within reason). I am looking forward to absorbing knowledge, gaining experience, collaborating, and building amazing products for the 
+world.. 
   </div>
 </div>
 
@@ -13,7 +15,7 @@ Talk to me about:
 - Backend development using **NodeJS, Nest JS, Firebase and AWS**.
 - Database using **Relational Datatbase and Non Relational Database**.
 - Robust full-stack system design implementation.
-- Blackchain development using (Still learning).
+- Blackchain development (Still learning).
 - Chatbot or Voice Application development (Still learning).
 - Mobile application development using **ReactNative**.
 - Creating scalable cloud architecture using **AWS Cloud**.
