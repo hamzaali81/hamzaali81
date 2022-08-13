@@ -1,14 +1,17 @@
 
 ![WhatsApp Image 2022-08-14 at 1 04 56 AM](https://user-images.githubusercontent.com/41760022/184509175-09a9e2de-a1d5-4cdd-a2f8-aa6f894260f2.jpeg)
 <hr></hr>
- 
-    I am a technology ethauist full-stack React/Node and Blockchain developer. I also worked on the Jamstack flavor and React Native.  I am fulltime freelancer in different freelance plateforms like fiverr and upwork. You can ask me anything (within reason). I am looking forward to absorbing knowledge, gaining experience, collaborating, and building amazing products for the 
+<div>
+ I am a technology ethauist full-stack React/Node and Blockchain developer. I also worked on the Jamstack flavor and React Native.  I am fulltime freelancer in different freelance plateforms like fiverr and upwork. You can ask me anything (within reason). I am looking forward to absorbing knowledge, gaining experience, collaborating, and building amazing products for the 
 world. I love building applications & discussing new product ideas.
 If you found value in something, I have created, please feel free to send a tip.
     <br></br>
 - 💼 any freelance work? do reach on [![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=twitter&logoColor=white)](https://www.linkedin.com/in/hamza-ali-124653162/).
 <br></br>
   - 💬 ask me about anything, i am happy to help;
+</div>
+ 
+   
 
 
 
