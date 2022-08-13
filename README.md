@@ -6,7 +6,8 @@
 world. I love building applications & discussing new product ideas.
 If you found value in something, I have created, please feel free to send a tip.
     <br></br>
-- 💼 any freelance work? do reach on [![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=twitter&logoColor=white)](https://www.linkedin.com/in/hamza-ali-124653162/).
+- 💼 any freelance work? do reach on 
+- [![LinkedIn Profile](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=twitter&logoColor=white)](https://www.linkedin.com/in/hamza-ali-124653162/).
 <br></br>
   - 💬 ask me about anything, i am happy to help;
 </div>
