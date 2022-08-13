@@ -1,4 +1,5 @@
-<img src="https://user-images.githubusercontent.com/41760022/145709769-06496689-45cf-4ee7-99f8-83b4532c2828.png"/>
+
+![WhatsApp Image 2022-08-14 at 1 04 56 AM](https://user-images.githubusercontent.com/41760022/184509175-09a9e2de-a1d5-4cdd-a2f8-aa6f894260f2.jpeg)
 <hr></hr>
 <div style="text-align: center">
   <div>
@@ -6,18 +7,17 @@
   </div>
 </div>
 
-**languages and tools:**  
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+## ⚡ Technologies
+Talk to me about:
+- Front-end development using **React JS , Next JS and Gatsby JS**.
+- Backend development using **NodeJS, Nest JS, Firebase and AWS**.
+- Database using **Relational Datatbase and Non Relational Database**.
+- Robust full-stack system design implementation.
+- Blackchain development using (Still learning).
+- Chatbot or Voice Application development (Still learning).
+- Mobile application development using **ReactNative**.
+- Creating scalable cloud architecture using **AWS Cloud**.
+- Solving Data structure and algorithm questions in **Javascript and Python**.
 
 <h4 style="margin-bottom: 0">Like my work? </h4>
 
