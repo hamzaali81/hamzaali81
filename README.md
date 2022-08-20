@@ -18,10 +18,10 @@
 Talk to me about:
 - Front-end development using **React JS , Next JS and Gatsby JS**.
 - Backend development using **NodeJS, Nest JS, Firebase and AWS**.
-- Database using **Relational Datatbase and Non Relational Database**.
+- Database using **Relational Database and Non Relational Database**.
 - Robust full-stack system design implementation.
-- Blackchain development (Still learning).
-- Chatbot or Voice Application development (Still learning).
+- **Blockchain development** **(Still learning)**.
+- **Chatbot or Voice Application** development **(Still learning)**.
 - Mobile application development using **ReactNative**.
 - Creating scalable cloud architecture using **AWS Cloud**.
 - Solving Data structure and algorithm questions in **Javascript and Python**.
