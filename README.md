@@ -23,7 +23,7 @@ Talk to me about:
 - **Blockchain development** **(Still learning)**.
 - **Chatbot or Voice Application** development.
 - Mobile application development using **ReactNative**.
-- Creating scalable cloud architecture using **AWS Cloud** (Still Learning).
+- Creating scalable cloud architecture using **AWS Cloud** **(Still Learning)**.
 - Solving Data structure and algorithm questions in **Javascript and Python**.
 
 <h4 style="margin-bottom: 0">Like my work? </h4>
