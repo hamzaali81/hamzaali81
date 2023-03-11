@@ -17,14 +17,12 @@
 ## ⚡ Technologies
 Talk to me about:
 - Front-end development using **React JS , Next JS and Gatsby JS**.
-- Backend development using **NodeJS, Nest JS, Firebase and AWS**.
+- Backend development using **NodeJS, Nest JS (loading), Firebase and AWS**.
 - Database using **Relational Database and Non Relational Database**.
 - Robust full-stack system design implementation.
 - **Blockchain development** **(Still learning)**.
 - **Chatbot or Voice Application** development.
-- Mobile application development using **ReactNative**.
-- Creating scalable cloud architecture using **AWS Cloud** **(Still Learning)**.
-- Solving Data structure and algorithm questions in **Javascript and Python**.
+- Solving Data structure and algorithm questions in **Javascript**.
 
 <h4 style="margin-bottom: 0">Like my work? </h4>
 
