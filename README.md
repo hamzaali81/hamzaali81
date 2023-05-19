@@ -1,5 +1,5 @@
 
-![WhatsApp Image 2022-08-14 at 1 04 56 AM]![mern-stack-fullstack-AI-ML](https://github.com/hamzaali81/hamzaali81/assets/41760022/dceb423a-cddf-458d-9525-badfc604fcb7)
+![WhatsApp Image 2022-08-14 at 1 04 56 AM](https://github.com/hamzaali81/hamzaali81/assets/41760022/dceb423a-cddf-458d-9525-badfc604fcb7)
 
 <hr></hr>
 <div>
