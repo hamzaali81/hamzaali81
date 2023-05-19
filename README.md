@@ -1,5 +1,5 @@
 
-![WhatsApp Image 2022-08-14 at 1 04 56 AM](https://user-images.githubusercontent.com/41760022/184509175-09a9e2de-a1d5-4cdd-a2f8-aa6f894260f2.jpeg)
+![WhatsApp Image 2022-08-14 at 1 04 56 AM](mern-stack-fullstack-AI-ML](https://github.com/hamzaali81/hamzaali81/assets/41760022/7222e8db-85cc-4170-b128-85c572400970)
 <hr></hr>
 <div>
  I am a technology enthusiast full-stack React/Node and Blockchain developer. I also worked on the Jamstack flavor and ReactNative. I am a full-time freelancer on different freelance platforms like Fiverr and Upwork. You can ask me anything (within reason). I am looking forward to absorbing knowledge, gaining experience, collaborating, and building amazing products for the world. I love building applications & discussing new product ideas. If you found value in something, I have created, please feel free to send a tip.
@@ -17,10 +17,10 @@
 ## ⚡ Technologies
 Talk to me about:
 - Front-end development using **React JS , Next JS and Gatsby JS**.
-- Backend development using **NodeJS, Nest JS (loading), Firebase and AWS**.
+- Backend development using **NodeJS, Nest JS , ExpressJS,Firebase, Supabase and AWS**.
 - Database using **Relational Database and Non Relational Database**.
 - Robust full-stack system design implementation.
-- **Blockchain development** **(Still learning)**.
+- **Python & ML ** **(Still learning)**.
 - **Chatbot or Voice Application** development.
 - Solving Data structure and algorithm questions in **Javascript**.
 
