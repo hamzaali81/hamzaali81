@@ -21,7 +21,7 @@ Talk to me about:
 - Backend development using **NodeJS, Nest JS , ExpressJS,Firebase, Supabase and AWS**.
 - Database using **Relational Database and Non Relational Database**.
 - Robust full-stack system design implementation.
-- **Python & ML ** **(Still learning)**.
+- Python & ML **(Still learning)**.
 - **Chatbot or Voice Application** development.
 - Solving Data structure and algorithm questions in **Javascript**.
 
