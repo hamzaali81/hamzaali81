@@ -3,11 +3,11 @@
 
 <hr></hr>
 <div>
- I am a technology enthusiast full-stack React/Node and Python developer. I also worked on the Jamstack flavor and React Native. I am a full-time freelancer on different freelance platforms like Fiverr and Upwork. You can ask me anything (within reason). I am looking forward to absorbing knowledge, gaining experience, collaborating, and building amazing products for the world. I love building applications & discussing new product ideas. If you found value in something, I have created, please feel free to send a tip.
+ I am a technology enthusiast and full-stack React/Node, and Blockchain developer. I also worked on the Jamstack flavor and React Native. I am a full-time freelancer on different freelance platforms, like Fiverr and Upwork. You can ask me anything (within reason). I am looking forward to absorbing knowledge, gaining experience, collaborating, and building amazing products for the world. I love building applications & discussing new product ideas. If you find value in something, I have created, please feel free to send a tip.
     <br></br>
 - 💼 any freelance work? do reach on <a href="mailto:hamzaali81811@gmail.com">Gmail</a>
 <br></br>
-  - 💬 ask me about anything, i am happy to help;
+  - 💬 ask me about anything, I am happy to help;
 </div>
  
    
@@ -17,13 +17,12 @@
 
 ## ⚡ Technologies
 Talk to me about:
-- Front-end development using **React JS , Next JS and Gatsby JS**.
-- Backend development using **NodeJS, Nest JS , ExpressJS,Firebase, Supabase and AWS**.
-- Database using **Relational Database and Non Relational Database**.
+- Front-end development using **React JS, Next JS, and Gatsby JS**.
+- Backend development using **NodeJS, Nest JS, ExpressJS, Firebase, Supabase, and AWS**.
+- Database using **Relational Database and Non-Relational Database**.
 - Robust full-stack system design implementation.
-- Python & ML **(Still learning)**.
 - **Chatbot or Voice Application** development.
-- Solving Data structure and algorithm questions in **Javascript**.
+- Solving Data structure and algorithm questions in Javascript.
 
 <h4 style="margin-bottom: 0">Like my work? </h4>
 
