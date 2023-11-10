@@ -1,6 +1,5 @@
 
-![WhatsApp Image 2022-08-14 at 1 04 56 AM](WhatsApp Image 2023-11-10 at 11 43 33 PM](https://github.com/hamzaali81/hamzaali81/assets/41760022/20d535ed-99c9-4695-ba16-1dc8e41fd9ae)
-
+![WhatsApp Image 2023-11-10 at 11 43 33 PM](https://github.com/hamzaali81/hamzaali81/assets/41760022/a638e5f8-ebf8-41d2-a580-e7bf3fa81613)
 
 <hr></hr>
 <div>
