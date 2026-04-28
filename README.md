@@ -3,7 +3,11 @@
 
 <hr></hr>
 <div>
- I am a technology enthusiast and full-stack React/Node, and Blockchain developer. I also worked on the Jamstack flavor and React Native. I am a full-time freelancer on different freelance platforms, like Fiverr and Upwork. You can ask me anything (within reason). I am looking forward to absorbing knowledge, gaining experience, collaborating, and building amazing products for the world. I love building applications & discussing new product ideas. If you find value in something, I have created, please feel free to send a tip.
+Helping developers & product owners #BuildWithAI | Software Architect, Cloud Infrastructure & DevOps | Product-Driven Tech Builder . 
+ I’m a Software Engineer building scalable web applications, modern web technologies, and hybrid mobile apps. I actively contribute to open source, write technical content, and author engineering blogs. My expertise includes AI-powered applications, MCP servers, RAG pipelines, and system design, with a strong focus on performance, reliability, and clean architecture. I’ve worked with startups, growing teams, enterprises, and freelance clients, consistently delivering features on time and building systems that are maintainable, secure, and built to scale. I’ve also led small, high-performing engineering teams (2–4 developers), mentoring engineers and driving clean architecture and engineering best practices.
+
+Recently, my focus has expanded into AI-powered systems — building intelligent applications using LLMs, RAG pipelines, MCP servers, and Agentic AI workflows to automate complex processes and create smarter products.
+
     <br></br>
 - 💼 any freelance work? do reach on <a href="mailto:hamzaali81811@gmail.com">Gmail</a>
 <br></br>
@@ -17,12 +21,10 @@
 
 ## ⚡ Technologies
 Talk to me about:
-- Front-end development using **React JS, Next JS, and Gatsby JS**.
-- Backend development using **NodeJS, Nest JS, ExpressJS, Firebase, Supabase, and AWS**.
-- Database using **Relational Database and Non-Relational Database**.
-- Robust full-stack system design implementation.
-- **Chatbot or Voice Application** development.
-- Solving Data structure and algorithm questions in Javascript.
+- Front-end development using **React, React Native, Angular, Ionic, Flutter, TypeScript, PWAs**.
+- Backend development using **Node.js (NestJS, LoopBack), Django, FastAPI, MongoDB, PostgreSQL, REST/GraphQL APIs, microservices, system design**.
+- AI & Intelligent Systems: **LLM integrations, RAG pipelines, vector search, MCP servers, Agentic AI, automation, n8n, Make, Zapier, Langchain, Vector databases**.
+- DevOps & Cloud: **Docker, Kubernetes, CI/CD, Terraform, AWS/GCP, Nginx, production deployments**
 
 <h4 style="margin-bottom: 0">Like my work? </h4>
 
