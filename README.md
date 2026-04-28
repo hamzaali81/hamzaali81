@@ -1,5 +1,5 @@
 
-![hamzaali_developer_poster](https://github.com/user-attachments/assets/de4fd913-3eca-48b6-8e9a-9dec91c56551)
+![hamzaali_developer_poster](<img width="1536" height="864" alt="hamzaali_developer_poster" src="https://github.com/user-attachments/assets/a151d4ee-8476-47b9-9a3b-073e2e2d69dc" />)
 
 <hr></hr>
 <div>
