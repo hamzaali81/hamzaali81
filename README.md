@@ -110,9 +110,8 @@ const hamza = {
 
 ---
 
-### 📊 GitHub Stats
-
 <!--
+   ### 📊 GitHub Stats
   These SVGs are generated daily by the GitHub Action in
   .github/workflows/update-readme-stats.yml and committed to /profile.
   They are self-hosted (always load) AND auto-updating. Run the workflow
@@ -140,9 +139,9 @@ const hamza = {
     &nbsp;
     <img src="./github_langs_card.png" alt="Core stack" width="46%"/>
   </p>
+> 🔎 Full activity: **[github.com/hamzaali81](https://github.com/hamzaali81)**
 -->
 
-> 🔎 Full activity: **[github.com/hamzaali81](https://github.com/hamzaali81)**
 
 ---
 
