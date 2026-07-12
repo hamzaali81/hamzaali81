@@ -7,7 +7,8 @@
 -->
 
 <p align="center">
-  <img src="./github_banner.png" alt="Hamza Ali — Software Architect | Backend | AI Systems | Cloud" width="100%" />
+ 
+  <img width="100%" alt="Hamza Ali — Software Architect | Backend | AI Systems | Cloud" src="https://github.com/user-attachments/assets/78e5d54f-1701-4cd1-8e6a-e4c93792507a" />
 </p>
 
 <h1 align="center">Hi, I'm Hamza Ali 👋</h1>
