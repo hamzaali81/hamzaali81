@@ -118,7 +118,7 @@ const hamza = {
   They are self-hosted (always load) AND auto-updating. Run the workflow
   once (Actions tab → "Update README stats" → Run workflow) to create them.
 -->
-<p align="center">
+<!-- <p align="center">
   <img src="./profile/stats.svg" alt="GitHub stats" width="46%"/>
   &nbsp;
   <img src="./profile/top-langs.svg" alt="Top languages" width="46%"/>
@@ -130,7 +130,7 @@ const hamza = {
   <a href="https://github.com/hamzaali81/nestjs-enterprise-kit">
     <img width="46%" alt="d51784e5-6f06-4c19-9a13-79b1588fa986" src="https://github.com/user-attachments/assets/3810048b-4041-492f-9f93-7a4610f7cc08" />
     <img src="./profile/pin-nestjs.svg" alt="nestjs-enterprise-kit" width="46%"/></a>
-</p>
+</p> -->
 
 <!--
   FALLBACK — instant static cards (no Action needed). If you prefer these,
