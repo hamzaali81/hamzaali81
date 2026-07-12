@@ -7,7 +7,6 @@
 -->
 
 <p align="center">
- 
   <img width="100%" alt="Hamza Ali — Software Architect | Backend | AI Systems | Cloud" src="https://github.com/user-attachments/assets/78e5d54f-1701-4cd1-8e6a-e4c93792507a" />
 </p>
 
@@ -113,19 +112,35 @@ const hamza = {
 
 ### 📊 GitHub Stats
 
+<!--
+  These SVGs are generated daily by the GitHub Action in
+  .github/workflows/update-readme-stats.yml and committed to /profile.
+  They are self-hosted (always load) AND auto-updating. Run the workflow
+  once (Actions tab → "Update README stats" → Run workflow) to create them.
+-->
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=hamzaali81&show_icons=true&hide_border=true&title_color=21c063&icon_color=21c063&text_color=c9d1d9&bg_color=0d1117" alt="stats"/>
-  <img height="165" src="https://streak-stats.demolab.com/?user=hamzaali81&hide_border=true&background=0d1117&stroke=21c063&ring=21c063&fire=ff6a2c&currStreakLabel=21c063&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="streak"/>
+  <img src="./profile/stats.svg" alt="GitHub stats" width="46%"/>
+  &nbsp;
+  <img src="./profile/top-langs.svg" alt="Top languages" width="46%"/>
 </p>
+
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzaali81&layout=compact&hide_border=true&title_color=21c063&text_color=c9d1d9&bg_color=0d1117&langs_count=8" alt="top langs"/>
+  <a href="https://github.com/hamzaali81/QueueBolt"><img src="./profile/pin-queuebolt.svg" alt="QueueBolt" width="46%"/></a>
+  &nbsp;
+  <a href="https://github.com/hamzaali81/nestjs-enterprise-kit"><img src="./profile/pin-nestjs.svg" alt="nestjs-enterprise-kit" width="46%"/></a>
 </p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hamzaali81&theme=onedark&no-frame=true&column=7&margin-w=8&title_color=21c063" alt="trophies"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hamzaali81&bg_color=0d1117&color=21c063&line=21c063&point=ff6a2c&hide_border=true&area=true" alt="activity graph" width="98%"/>
-</p>
+
+<!--
+  FALLBACK — instant static cards (no Action needed). If you prefer these,
+  swap the block above for:
+  <p align="center">
+    <img src="./github_stats_card.png" alt="GitHub snapshot" width="46%"/>
+    &nbsp;
+    <img src="./github_langs_card.png" alt="Core stack" width="46%"/>
+  </p>
+-->
+
+> 🔎 Full activity: **[github.com/hamzaali81](https://github.com/hamzaali81)**
 
 ---
 
