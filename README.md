@@ -125,9 +125,11 @@ const hamza = {
 </p>
 
 <p align="center">
-  <a href="https://github.com/hamzaali81/QueueBolt"><img src="./profile/pin-queuebolt.svg" alt="QueueBolt" width="46%"/></a>
+  <a href="https://github.com/hamzaali81/QueueBolt"><img width="46%" alt="queuebolt_logo_abstract (1)" src="https://github.com/user-attachments/assets/33934194-3f27-4b88-82bb-205b8a1bd1d7" /></a>
   &nbsp;
-  <a href="https://github.com/hamzaali81/nestjs-enterprise-kit"><img src="./profile/pin-nestjs.svg" alt="nestjs-enterprise-kit" width="46%"/></a>
+  <a href="https://github.com/hamzaali81/nestjs-enterprise-kit">
+    <img width="46%" alt="d51784e5-6f06-4c19-9a13-79b1588fa986" src="https://github.com/user-attachments/assets/3810048b-4041-492f-9f93-7a4610f7cc08" />
+    <img src="./profile/pin-nestjs.svg" alt="nestjs-enterprise-kit" width="46%"/></a>
 </p>
 
 <!--
