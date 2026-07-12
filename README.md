@@ -115,17 +115,14 @@ const hamza = {
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=hamzaali81&show_icons=true&hide_border=true&title_color=21c063&icon_color=21c063&text_color=c9d1d9&bg_color=0d1117" alt="stats"/>
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=hamzaali81&hide_border=true&background=0d1117&stroke=21c063&ring=21c063&fire=ff6a2c&currStreakLabel=21c063&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="streak"/>
+  <img height="165" src="https://streak-stats.demolab.com/?user=hamzaali81&hide_border=true&background=0d1117&stroke=21c063&ring=21c063&fire=ff6a2c&currStreakLabel=21c063&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="streak"/>
 </p>
-
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzaali81&layout=compact&hide_border=true&title_color=21c063&text_color=c9d1d9&bg_color=0d1117&langs_count=8" alt="top langs"/>
 </p>
-
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=hamzaali81&theme=onedark&no-frame=true&column=7&margin-w=8&title_color=21c063" alt="trophies"/>
 </p>
-
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hamzaali81&bg_color=0d1117&color=21c063&line=21c063&point=ff6a2c&hide_border=true&area=true" alt="activity graph" width="98%"/>
 </p>
